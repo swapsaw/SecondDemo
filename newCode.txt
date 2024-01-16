@@ -45,3 +45,4 @@ public class LoginPage {
 
 }
 
+This code represents POM of TestNG framework and it includes code for Login page
