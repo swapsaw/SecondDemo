@@ -50,3 +50,4 @@ Please ignore this as it is a part of git study. I am an experienced software te
 process, seeking a full-time position in the field of software development, where I can apply my
 knowledge and skills for continuous improvement and success of a dynamic organisation.
 New line to check core editor
+New line
